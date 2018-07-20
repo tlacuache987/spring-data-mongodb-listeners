@@ -1,0 +1,8 @@
+encrypt:
+  #key-store:
+    #location: file://Users/xvhx/certificatic-ws/ws-curso-spring-core-alumnos-cu7/server.jks
+    #password: letmein
+    #alias: mytestkey
+    #secret: changeme
+  
+  key: mysecretpassword
